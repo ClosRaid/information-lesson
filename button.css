@@ -21,12 +21,14 @@
 .amazon-button {
     color: black;
     background-color: rgb(255,216,20);
+    border: none;
     border-radius: 20px;
     height: 40px;
     width: 159px;
 }
 .uber-button{
     color: white;
+    border: none;
     background-color: black;
     height: 35px;
     width: 100px;
